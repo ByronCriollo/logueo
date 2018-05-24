@@ -7,9 +7,9 @@
 
         # Atributos de la clase conexion
         private $mysqli = '';
-        private $usuario = 'root';
-        private $clave = '';
-        private $server = 'localhost';
+        private $usuario = 'myapp@baseserv';
+        private $clave = '2092Acer';
+        private $server = 'baseserv.mysql.database.azure.com';
         private $db = 'login';
 
 
